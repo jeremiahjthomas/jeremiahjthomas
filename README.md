@@ -1,4 +1,4 @@
-# Howdy! I'm a Computer Engineering student at Texas A&M working on ML and electronics projects. 
+## Howdy! I'm a Computer Engineering student at Texas A&M working on ML and electronics projects. 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jt_thomas21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeremiahjthomas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeremiahjthomas21@gmail.com) 
 
